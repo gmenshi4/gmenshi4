@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmenshi4
-- 👀 I’m interested in data anlysis
-- 🌱 I’m currently learning data analysis with R
-- 💞️ I’m looking to collaborate on any projects that will help me improve my skills in data analysis
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning data science with python
+- 💞️ I’m looking to collaborate on any projects that will help me improve my skills in data science
 - 📫 How to reach me gmenshi4@gmail.com
 
 <!---
